@@ -1,4 +1,4 @@
-# Advanced Linear Algebra, Math 425, SFSU
+# Advanced Linear Algebra, Math 725, SFSU
 
 	<brentathorne@gmail.com>
 
