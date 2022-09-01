@@ -8,6 +8,7 @@
 
 # Syllabus:
 	https://bit.ly/710-goetz
+	https://bit.ly/3wtfWAZ
 
 # HW:
 	drafts on Tuesday, sumbitted on Thurs.
