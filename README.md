@@ -4,9 +4,10 @@
 	<brentathorne@gmail.com>
 # Reading List:
 	Axler, Linear Algebra Done Right
+	Lay, Linear Algebra and Its Applications
 	Velleman, How to Prove It
 	Halmos, Finite-Dimensional Vector Spaces
-	Jeevanjee, An Introduction to Tensors and Group Theory of Physicists
+	Jeevanjee, An Introduction to Tensors and Group Theory for Physicists
 # Syllabus:
 	https://bit.ly/3wtfWAZ
 # HW:
