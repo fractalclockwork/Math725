@@ -1,5 +1,9 @@
 # Advanced Linear Algebra, Math 725, SFSU
-	 A collection of work exploring Vector spaces and linear maps on them. Inner product spaces and the finite-dimensional spectral theorem. Eigenvalues, the singular-value decomposition, the characteristic polynomial, and canonical forms.
+	A collection of work exploring Vector spaces and linear maps on them.
+
+	Inner product spaces and the finite-dimensional spectral theorem. 
+
+	Eigenvalues, the singular-value decomposition, the characteristic polynomial, and canonical forms.
 
 # Contact Info:
 	<brentathorne@gmail.com>
