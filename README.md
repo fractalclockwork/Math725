@@ -17,3 +17,13 @@
 	https://bit.ly/3wtfWAZ
 # HW:
 	drafts on Tuesday, sumbitted on Thurs.
+
+# Playground:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
